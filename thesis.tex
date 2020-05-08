@@ -23,6 +23,7 @@
 \newcites{One}{References}
 \newcites{Two}{References}
 \newcites{Three}{References}
+\newcites{IntroFr}{References}
 
 % Number paragraphs and subparagraphs and include them in TOC
 \setcounter{tocdepth}{2}
@@ -68,6 +69,40 @@
 %	\underaccent{\bar}{#1}}
 
 %\newcolumntype{d}[1]{D..{#1}} % for alignment of numbers on decimal marker
+
+
+\usepackage[utf8]{inputenc} % For French accents
+\usepackage{newunicodechar} % for ² symbol:
+\newunicodechar{²}{\textsuperscript{2}}
+
+%-----------------------------
+% COMMANDS
+%------------------------------
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{amssymb}
+\newcommand{\eqn}{\[
+    \stcomp{(A \cup B)} = \stcomp{A} \cap \stcomp{B}
+\]}
+\DeclareMathOperator{\E}{\mathbb{E}}
+\usepackage{anyfontsize}         
+% For documents in 10pt, 11pt or 12pt     
+% \def\one{\mbox{1\hspace{-3.85pt}\fontsize{11}{14.4}\selectfont\textrm{1}}} % 10pt    
+\def\one{\mbox{1\hspace{-4.25pt}\fontsize{12}{14.4}\selectfont\textrm{1}}} % 11pt   
+
+\DeclarePairedDelimiterX{\norm}[1]{\lVert}{\rVert}{#1}
+
+\makeatletter
+\newcommand{\distas}[1]{\mathbin{\overset{#1}{\kern\z@\sim}}}%
+\newsavebox{\mybox}\newsavebox{\mysim}
+\newcommand{\distras}[1]{%
+  \savebox{\mybox}{\hbox{\kern3pt$\scriptstyle#1$\kern3pt}}%
+  \savebox{\mysim}{\hbox{$\sim$}}%
+  \mathbin{\overset{#1}{\kern\z@\resizebox{\wd\mybox}{\ht\mysim}{$\sim$}}}%
+}
+%-----------------------------
+% COMMANDS
+%----------------------------
 
 % For dealing with multiple appendices
 \makeatletter
@@ -170,5 +205,8 @@
 	
 	  \cleardoublepage
   \input{conclusion.tex}
+	
+	\cleardoublepage
+	\input{introductionFr.tex}
 
 \end{document}
