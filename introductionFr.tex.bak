@@ -43,7 +43,7 @@ Comme l'ambre, le musc, le benjoin et l'encens,
 Qui chantent les transports de l'esprit et des sens.
 
 
-   Charles Baudelaire, Les Fleurs du mal
+\citeIntroFr{baudelaire2011fleurs}
 
 
 \section*{Chapitre 2: Le deuxième chapitre le plus cool du monde}
@@ -183,8 +183,9 @@ Arthur Rimbaud.
 
 [Résume en Français]\newline \newline
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin massa vel venenatis dictum. Aliquam erat volutpat. Phasellus accumsan eu felis at luctus. Integer neque elit, \citeIntro{smith2019title} venenatis sed iaculis in, tincidunt nec augue. Aliquam erat volutpat. Nulla sodales tortor non justo tincidunt, non varius risus mollis. Aliquam est purus, cursus at nulla ac, sollicitudin placerat diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut \citeIntro{smith2019title}
-at leo eget metus scelerisque venenatis. Sed quis dui nisi. Morbi sodales, leo ac scelerisque malesuada, libero sem placerat ante, \citeIntro{smith2019title} sit amet ullamcorper ligula nulla vestibulum tellus.
+Les Matinaux, René Char (1950) 
+
+Impose ta chance, serre ton bonheur et va vers ton risque. A te regarder, ils s'habitueront.
 
 \bibliographystyleIntroFr{apalike}
 \bibliographyIntroFr{mybib}

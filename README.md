@@ -37,5 +37,13 @@ wrong. Here are some points about how to use the template:
 * The main file is `thesis.tex`, which defines all of the packages and user defined functions. If you use special packages, add them here.
 * Modify the title `pages.tex`, `sommaire.tex`, `acknowledgements.tex`, and `introduction.tex` as you need to.
 * Copy and paste the body of your papers into the chapter files (package includes should be placed in `thesis.tex`).
-* Change all of your `\cite` calls to `\citeIntro`, `\citeSomm`, `\citeOne`, `\citeTwo`, or `\citeThree`, depending on what section they are in.
+* Change all of your `\cite` calls to `\citeIntro`, `\citeSomm`, `\citeOne`, `\citeTwo`, `\citeThree`, or `\citeIntroFr` depending on what section they are in.
 * Place all your bibliography entries in the `mybib.bib` file.
+
+## French summary
+
+* If your thesis is in English, you need to put a 10-page summary in **French** at the end of the thesis:
+
+	"Si la thèse est rédigée en langue étrangère, l'étudiant doit, en outre, intégrer au fichier pdf de sa thèse (à la fin de la thèse) : un grand résumé en français (10 pages) avec une page de titre comportant uniquement le titre de la thèse en français et la mention "Résumé" ; avant de remettre la version électronique de votre thèse, à l’Ecole doctorale," source: https://www.sciencespo.fr/ecole-doctorale/fr/content/soutenance-de-these.html
+
+* see the file `introductionFr.tex`
