@@ -1,11 +1,19 @@
-# thesis
+# Thesis
+
+This repository contains a **thesis template** that passes [the requirements of the Ecole Doctorale
+of Sciences Po](https://www.sciencespo.fr/ecole-doctorale/fr/content/soutenance-de-these.html).
+This repository also tells you want are the administrative tasks you should do
+prior your thesis defense.
+
+# Why this repository?
 
 Do you hate wasting time doing exactly the same thing that every other person
 in your office has to do? Me too! I wasted at least a solid week typesetting my
-thesis, despite the fact that every single phd student has had to do the same
-thing. Least. Efficient. Thing. Ever. To try to break this endless cycle, I've
+thesis, despite the fact that every single PhD student has had to do the same
+thing. Least. Efficient. Thing. Ever. To try to **break this endless cycle**, I've
 put together a simple template that typesets your thesis for you! Here are some
 of my favorite features:
+
 * Edit individual files for each chapter instead of one monster file.
 * Build with a single command... so easy!
 * Maintain one bibliography, because you cite the exact same people every time.
@@ -51,6 +59,11 @@ wrong. Here are some points about how to use the template:
 ## Administrative duties
 
 * Fill in the form ["BORDEREAU DE SOUTENANCE DE THESE DE DOCTORAT"](https://github.com/JulienPascal/thesis/blob/master/admin/bordereau_soutenance_these_maj_janvier_2018%20(11).rtf)
-and send it to the Ecole Doctorale. You should do it at least 3 weeks before the thesis defense:
+and send it to the Ecole Doctorale. You should do it at **least 3 weeks before the thesis defense**:
 
 	"A FOURNIR OBLIGATOIREMENT EN 1 EXEMPLAIRE PAPIER ET EN VERSION ELECTRONIQUE WORD (.doc ou .rtf) TROIS SEMAINES AVANT LA SOUTENANCE"
+
+## Help wanted
+
+**Pull requests welcome!** Do not hesitate to update the thesis template and the list of
+administrative duties as they become obsolete and new ones are added.
