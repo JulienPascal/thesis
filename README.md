@@ -49,3 +49,8 @@ wrong. Here are some points about how to use the template:
 * see the file `introductionFr.tex`
 
 ## Administrative duties
+
+* Fill in the form ["BORDEREAU DE SOUTENANCE DE THESE DE DOCTORAT"](https://github.com/JulienPascal/thesis/blob/master/admin/bordereau_soutenance_these_maj_janvier_2018%20(11).rtf)
+and send it to the Ecole Doctorale. You should do it at least 3 weeks before the thesis defense:
+
+	"A FOURNIR OBLIGATOIREMENT EN 1 EXEMPLAIRE PAPIER ET EN VERSION ELECTRONIQUE WORD (.doc ou .rtf) TROIS SEMAINES AVANT LA SOUTENANCE"
