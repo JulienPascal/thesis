@@ -10,7 +10,7 @@ prior your thesis defense.
 Do you hate wasting time doing exactly the same thing that every other person
 in your office has to do? Me too! I wasted at least a solid week typesetting my
 thesis, despite the fact that every single PhD student has had to do the same
-thing. Least. Efficient. Thing. Ever. To try to **break this endless cycle**, I've
+thing. **Least. Efficient. Thing. Ever.** To try to **break this endless cycle**, I've
 put together a simple template that typesets your thesis for you! Here are some
 of my favorite features:
 
@@ -66,4 +66,8 @@ and send it to the Ecole Doctorale. You should do it at **least 3 weeks before t
 ## Help wanted
 
 **Pull requests welcome!** Do not hesitate to update the thesis template and the list of
-administrative duties as they become obsolete and new ones are added.
+administrative duties as they become obsolete and new ones are added. Below is a list
+of people who contributed to this repository:
+
+* [Tyler Abbot](https://github.com/tyler-abbot/thesis): Creator of this repository and initial breaker of the wheel
+* [Julien Pascal](https://github.com/JulienPascal): Updated the template to pass the 2020 requirements
