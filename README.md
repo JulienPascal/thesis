@@ -2,8 +2,7 @@
 
 This repository contains a **thesis template** that passes [the requirements of the Ecole Doctorale
 of Sciences Po](https://www.sciencespo.fr/ecole-doctorale/fr/content/soutenance-de-these.html).
-This repository also tells you want are the administrative tasks you should do
-prior your thesis defense.
+This repository also lets you know what are the administrative tasks you should do prior your thesis defense.
 
 # Why this repository?
 
@@ -75,4 +74,4 @@ administrative duties as they become obsolete and new ones are added. Below is a
 of people who contributed to this repository:
 
 * [Tyler Abbot](https://github.com/tyler-abbot/thesis): Creator of this repository and initial breaker of the wheel
-* [Julien Pascal](https://github.com/JulienPascal): Updated the template to pass the 2020 requirements
+* [Julien Pascal](https://github.com/JulienPascal): Updated the template to pass the 2020 requirements + started tracking the administrative requirements
