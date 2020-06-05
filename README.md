@@ -11,14 +11,19 @@ Do you hate wasting time doing exactly the same thing that every other person
 in your office has to do? Me too! I wasted at least a solid week typesetting my
 thesis, despite the fact that every single PhD student has had to do the same
 thing. **Least. Efficient. Thing. Ever.** To try to **break this endless cycle**, I've
-put together a simple template that typesets your thesis for you! Here are some
-of my favorite features:
+put together a simple template that typesets your thesis for you!
+
+
+![alt text](https://github.com/JulienPascal/thesis/blob/master/admin/wheel.gif)
+
+
+Here are some of my favorite features:
 
 * Edit individual files for each chapter instead of one monster file.
 * Build with a single command... so easy!
 * Maintain one bibliography, because you cite the exact same people every time.
-Feel free to modify this as you wish, but hopefully you won't spend as much time
-as I did.
+Feel free to modify this as you wish, but hopefully you won't spend as much time as I did.
+
 
 ## Installation
 
