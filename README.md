@@ -47,3 +47,5 @@ wrong. Here are some points about how to use the template:
 	"Si la thèse est rédigée en langue étrangère, l'étudiant doit, en outre, intégrer au fichier pdf de sa thèse (à la fin de la thèse) : un grand résumé en français (10 pages) avec une page de titre comportant uniquement le titre de la thèse en français et la mention "Résumé" ; avant de remettre la version électronique de votre thèse, à l’Ecole doctorale," source: https://www.sciencespo.fr/ecole-doctorale/fr/content/soutenance-de-these.html
 
 * see the file `introductionFr.tex`
+
+## Administrative duties
